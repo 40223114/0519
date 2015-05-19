@@ -8,7 +8,7 @@
 * [協同上機考試](_協同上機考試.md)
    * [product_owner](product_owner.md)
    * [scrumaster](scrumaster.md)
-   * [組員一](scrum_1.md)
-   * [組員二](scrum_2.md)
-   * [組員三](scrum_3.md)
+   * [組員一](組員1.md)
+   * [組員二](組員2.md)
+   * [組員三](組員3.md)
 
