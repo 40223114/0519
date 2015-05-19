@@ -1,13 +1,13 @@
-# Introduction
+組員為:
 
-March - July 2015
+40223112江家杰
 
-Welcome, this is an ongoing project record for a university course named collaborative product design principles and practices.
+40223113余定彥
 
-Github integration: https://github.com/product-owner/2015scrum
+40223114余祥維
 
-course website: http://cd-cadp.rhcloud.com
+40223118周彥廷
 
+40223135馮景挺
 
-
-
+40223147鄭少博
