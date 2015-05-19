@@ -11,5 +11,5 @@
    * [組員一](scrum_1.md)
    * [組員二](scrum_2.md)
    * [組員三](scrum_3.md)
-   * [scrum_4](scrum_4.md)
+   * [組員四](scrum_4.md)
 
